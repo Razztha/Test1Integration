@@ -12,7 +12,7 @@ namespace WebApplication1.Controllers
         // GET: api/Test
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "kasun", "value2" };
         }
 
         // GET: api/Test/5
